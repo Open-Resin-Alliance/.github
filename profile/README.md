@@ -1,4 +1,4 @@
-# Open Resin Alliance [![Discord Link](https://discordapp.com/api/guilds/881628699500359731/widget.png?style=shield)](https://discord.gg/GFUn9gwRsj)
+# Open Resin Alliance &nbsp;&nbsp;&nbsp; [![Discord Link](https://discordapp.com/api/guilds/1281738817417777204/widget.png?style=shield)](https://discord.gg/beFeTaPH6v)
 ## Hey there! 👋
 We're a group of people from around the globe, based in Germany.
 <br><br>
