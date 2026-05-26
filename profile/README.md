@@ -16,7 +16,7 @@ Below are a few of our most impactful projects.
 #### [Orion Frontend](https://github.com/Open-Resin-Alliance/Orion)
 > Resin printer frontend software
 
-#### DragonFruit Slicer (_Coming Soon_)
+#### [DragonFruit Slicer](https://github.com/Open-Resin-Alliance/DragonFrui)
 > Fully Open-Source slicer for resin printing
 
 ## Join Us
